@@ -1,0 +1,4 @@
+# 実行時ログと Python キャッシュはコミット対象外
+run.log
+__pycache__/
+*.pyc
